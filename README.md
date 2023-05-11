@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jarryd
-- 👀 I’m interested in applied language studies, online learning and edicational technology.
+- 👀 I’m interested in applied language studies, online learning and educational technology.
 - 🌱 I’m currently learning Chinese-Madarin, and need to get back to learning R.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
